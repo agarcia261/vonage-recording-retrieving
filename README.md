@@ -1,6 +1,6 @@
-# Create React Express App
+# This is a React - Node Application
 
-## About This Boilerplate
+## About This
 
 This setup allows for a Node/Express/React app which can be easily deployed to Heroku.
 
